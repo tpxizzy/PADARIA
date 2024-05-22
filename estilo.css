@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #e0e0e0;
+}
+
+.topo {
+    padding: 20px 0;
+}
+
+.img-logo {
+    width: 150px;
+}
+
+.paragrafo-topo {
+    margin: 10px 0;
+}
+
+.link-topo {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #8c6239;
+    font-weight: bold;
+}
+
+.banner {
+    padding: 20px 0;
+}
+
+.h1secao {
+    font-size: 30px;
+    color: black;
+    border-top: solid #e57e25;
+    padding-top: 25px;
+    margin-right: 22%;
+    margin-left: 22%;
+}
+
+.h2secao {
+    font-size: 18px;
+    color: #e49534;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.vitrine {
+    width: 975px;
+    margin-top: 20px;
+}
+
+.produtos {
+    background-color: #e57e25;
+    margin-left: 19%;
+    margin-right: 19%;
+    padding: 20px 0;
+    color: #e0e0e0;
+}
+
+.h1produtos {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.h2paes {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.ppaes {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.paes {
+    width: 500px;
+    margin: 10px 0;
+}
+
+.h2bolos {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.pbolos {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.bolos {
+    width: 500px;
+    margin: 10px 0;
+}
+
+.contato {
+    padding: 20px 0;
+    color: #333;
+}
+
+.hcontato {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.pcontato {
+    margin: 5px 0;
+}
